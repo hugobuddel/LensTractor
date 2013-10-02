@@ -108,3 +108,4 @@ def KIDS_imshow_settings(image, chi):
  
     return (ima, chia, psfa)
 
+# test
